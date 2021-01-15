@@ -10,5 +10,5 @@ The average result will be printed on the OLED display. devSSD1331.c and devSSD1
 
 For warp-kl03-ksdk1.1-boot.c, changes are made from line 2561 to 2753. In addition, some functions of warp-kl03-ksdk1.1-boot.c are comment out as the sensors should be triggered once the power is on instead of triggering them by pressing 'z'. However, those functions are useful to check specific contents of registers while designing the project.
 
-## Reference
-[1]: https://github.com/physical-computation/Warp-firmware
+## Reference 
+[1] https://github.com/physical-computation/Warp-firmware
